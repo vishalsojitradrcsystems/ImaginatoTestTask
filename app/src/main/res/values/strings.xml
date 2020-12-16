@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Imaginato Android Test</string>
+    <string name="lbl_data_not_found">Data Not Found</string>
+    <string name="lbl_data_found">Data Found Successfully</string>
+    <string name="lbl_login">Login</string>
+    <string name="title_activity">Enter the Username and Password</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="sub_title_activity">Reading and Displaying Data From Room</string>
+    <string name="lbl_fetch_data_from_room">Fetch data from Room</string>
+    <string name="empty_data">- - -</string>
+    <string name="lbl_allow_permission">Please allow permission to login</string>
+    <string name="lbl_inserted_successfully">Inserted Successfully</string>
+    <string name="msg_user_name">Please enter the username</string>
+    <string name="msg_password">Please enter the password</string>
+    <string name="lbl_permission_title">Permission Request</string>
+</resources>
